@@ -1,4 +1,4 @@
-# coursera_deeplearning
+# coursera_deeplearning.ai
 Remember the Coursera Honor Code!
 
 Try and get at least a working code by yourself. You can refer to this after you have tried once!
