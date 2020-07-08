@@ -3,4 +3,6 @@ Remember the Coursera Honor Code!
 
 Try and get at least a working code by yourself. You can refer to this after you have tried once!
 
-Course notes can be downloaded from coursera but this is good compilation, outside of coursera : https://github.com/mbadry1/DeepLearning.ai-Summary
+I have tried to solve ungraded / optional exercises as well. But in few situations did not spend enough time to match the outputs.
+
+Once you are done with the submission, you can use these instructions to download your work : https://learner.coursera.help/hc/en-us/articles/360004990332-Download-Jupyter-Workspace-files
